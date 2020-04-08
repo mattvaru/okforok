@@ -5,7 +5,7 @@ In this repository you will find two files to help you if you're running a clone
 
 In order to make the process easier, we have two files available. 
 
-__*EDIT* : we have changed the links here to the raw files to make this easier to download__
+__*EDIT* : we have changed the links here to the raw files to make this easier to download. Just right-click each link and choose Save-As__
 
 1. [submit-a-business.json](https://raw.githubusercontent.com/rileyrichter/okforok/master/submit-a-business.json)
 2. [submit-a-server.json](https://raw.githubusercontent.com/rileyrichter/okforok/master/submit-a-server.json)
